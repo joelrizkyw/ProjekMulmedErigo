@@ -47,6 +47,18 @@ body{
   .navlinks li a:hover::after{
     width: 100%;
   }
+  
+  body {
+      font-family: 'Open Sans', sans-serif;
+  }
+  
+  .navbar-brand img {
+  
+      width: 100px;
+      height: 50px;
+      /* max-width: 100%; */
+  }
+  
 /*   
   footer{
     position: fixed;
