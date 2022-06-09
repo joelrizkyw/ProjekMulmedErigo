@@ -63,6 +63,18 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+.section-produk h1 {
+
+    font-size: 35px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+}
+
+.section-produk h2 {
+
+    font-family: 'Open Sans', sans-serif;
+}
+
 .section-produk .detail-produk a {
 
     text-decoration: none;
