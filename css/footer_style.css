@@ -1,0 +1,33 @@
+footer {
+
+    color: white;
+    background-color: #0D4168;
+}
+
+footer .title {
+
+    font-weight: bold;
+}
+
+.logo-footer img {
+
+    width: 80px;
+    height: 80px;
+}
+
+.sosial-media .icon img {
+
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+}
+
+.sosial-media .icon img:last-child {
+
+    margin-right: 0;
+}
+
+.copyright-footer {
+
+    font-size: 12px;
+}
