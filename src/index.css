@@ -1,0 +1,86 @@
+:root {
+	--color-primary: #0D4168;
+	--color-accent: #FFBB00;
+	--text-color-primary: #0F1419;
+	--divider-color: #e4e4e4;
+	--font-heading: "Barlow", "Noto Sans", sans-serif;
+	--font-super-heading: "Akira Expanded", var(--font-heading);
+}
+
+* {
+	font-family: "Noto Sans", sans-serif;
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	color: var(--text-color-primary);
+	overscroll-behavior: none;
+}
+
+body, input, button, select, option {
+	font-size: 15px;
+}
+
+input {
+	caret-color: var(--color-primary);
+}
+
+img {
+	object-fit: contain;
+}
+
+a {
+	color: var(--color-primary);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.Page {
+	padding-top: 80px;
+}
+
+.Page .content {
+}
+
+.content {
+	margin: 0 auto;
+	padding: 0 32px 24px;
+}
+
+.bigHeader > h1 {
+	margin: 32px auto 32px;
+	padding: 0 32px;
+	font-family: var(--font-super-heading);
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 900;
+	color: var(--color-primary);
+}
+
+h2 {
+	font-family: var(--font-heading);
+	font-weight: bold;
+	margin-bottom: 24px;
+}
+
+h3 {
+	font-family: var(--font-heading);
+}
+
+.sectionTitle {
+	color: black;
+	font-family: var(--font-heading);
+	font-weight: bold;
+	font-size: 26px;
+	margin: 32px auto 28px;
+	text-align: center;
+}
+
+@font-face {
+	font-family: 'Akira Expanded';
+	src: url('Akira Expanded Demo.otf') format('opentype');
+}

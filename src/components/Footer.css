@@ -1,0 +1,45 @@
+.footer {
+    background: var(--color-primary);
+    color: white;
+}
+
+.footerInner {
+    margin: 0 auto;
+    padding: 48px 32px;
+}
+
+.footer .rows {
+    display: flex;
+    gap: 32px;
+}
+
+.footer .erigoLogo {
+    height: 80px;
+    width: auto;
+}
+
+.footer h2 {
+    font-family: var(--font-heading);
+    margin: 0 0 16px 0;
+    font-size: 24px;
+}
+
+.footer img {
+    width: 40px;
+    height: 40px;
+}
+
+.footer a:not(:first-child) {
+    margin-left: 16px;
+}
+
+.footerSection {
+    margin-bottom: 4px;
+}
+
+.copyright {
+    margin-top: 24px;
+    font-weight: 300;
+    font-size: 12px;
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+.MarketplaceButton {
+    background-color: #0D4168;
+    color: white;
+    padding: 0 24px;
+    border-radius: 9999px;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+}
+
+.MarketplaceButton:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.tokopedia {
+    background-color: #03AC0E;
+}
+
+.shopee {
+    background-color: #EE4D2D;
+}
+
+.gambar-detail-produk img {
+    width: 100%;
+}
+
+.section-produk .jenis-produk .nama-produk {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.section-produk:not(:last-child) {
+    padding-bottom: 20px;
+    margin-bottom: 32px;
+    border-bottom: 0.5px solid rgba(0, 0, 0, 0.1);
+}
