@@ -21,19 +21,19 @@ Bahan: Fleece`,
 		"types": {
 			"kaos": {
 				"title": "Kaos",
-				"image": "/assets/images/produk/jenis atasan_1.png",
+				"image": "/assets/images/produk/tshirt.jpg",
 			},
 			"kemeja": {
 				"title": "Kemeja",
-				"image": "/assets/images/produk/jenis atasan_2.png",
+				"image": "/assets/images/produk/shirt.jpg",
 			},
 			"polo": {
 				"title": "Polo",
-				"image": "/assets/images/produk/jenis atasan_3.png",
+				"image": "/assets/images/produk/polo.jpg",
 			},
 			"sweatshirt": {
 				"title": "Sweatshirt",
-				"image": "/assets/images/produk/jenis atasan_4.png",
+				"image": "/assets/images/produk/sweatshirt.jpg",
 			}
 		}
 	},
@@ -54,19 +54,19 @@ Model Produk: Stretch Skinny Fit`,
 		"types": {
 			"jeans": {
 				"title": "Jeans",
-				"image": "/assets/images/produk/jenis bawahan_1.jpg",
+				"image": "/assets/images/produk/jeans.jpg",
 			},
 			"chino": {
 				"title": "Chino",
-				"image": "/assets/images/produk/jenis bawahan_2.jpg",
+				"image": "/assets/images/produk/chino.jpg",
 			},
 			"jogger": {
 				"title": "Jogger",
-				"image": "/assets/images/produk/jenis bawahan_3.jpg",
+				"image": "/assets/images/produk/jogger.jpg",
 			},
 			"celana-pendek": {
 				"title": "Celana Pendek",
-				"image": "/assets/images/produk/jenis bawahan_4.jpg",
+				"image": "/assets/images/produk/short pants.jpg",
 			}
 		}
 	},
@@ -87,19 +87,19 @@ Bahan: Soft Parasut
 		"types": {
 			"hoodie": {
 				"title": "Hoodie",
-				"image": "/assets/images/produk/jenis jaket_1.jpg",
+				"image": "/assets/images/produk/hoodie.jpg",
 			},
 			"bomber": {
 				"title": "Bomber",
-				"image": "/assets/images/produk/jenis jaket_2.jpg",
+				"image": "/assets/images/produk/bomber.jpg",
 			},
 			"varsity": {
 				"title": "Varsity",
-				"image": "/assets/images/produk/jenis jaket_3.jpg",
+				"image": "/assets/images/produk/varsity.jpg",
 			},
 			"sukajan": {
 				"title": "Sukajan",
-				"image": "/assets/images/produk/jenis jaket_4.jpg",
+				"image": "/assets/images/produk/sukajan.jpg",
 			}
 		}
 	},
@@ -110,25 +110,25 @@ Bahan: Soft Parasut
 			"body": `Sling Bag Erigo saat ini merupakan salah satu lini pakaian terbaik dan berkualitas tinggi di antara <i>Local Brand</i> Indonesia. Kantung utamanya dilengkapi dengan resleting. Dilengkapi dengan <i>extra pocket</i> yang juga memiliki resleting. Sling Bag Nion Erigo memiliki warna cerah dan strap yang bisa diatur sehingga kamu dapat tetap nyaman menggunakannya saat hangout bersama teman.
 
 Dimensi (PxLxT): 30x15x4 cm`,
-			"thumbnail": "/assets/images/produk/produk aksesoris (tas).jpg",
+			"thumbnail": "/assets/images/produk/quilt bag.jpg",
 			"link": "https://shopee.co.id/Erigo-Waist-Bag-Ren-Camo-i.30203584.7361028567"
 		},
 		"types": {
 			"waist-bag": {
 				"title": "Waist Bag",
-				"image": "/assets/images/produk/jenis aksesoris_4.jpg",
+				"image": "/assets/images/produk/waist bag.jpg",
 			},
 			"sling-bag": {
 				"title": "Sling Bag",
-				"image": "/assets/images/produk/jenis aksesoris_3.jpg",
+				"image": "/assets/images/produk/sling bag.jpg",
 			},
 			"tote-bag": {
 				"title": "Tote Bag",
-				"image": "/assets/images/produk/jenis aksesoris_1.jpg",
+				"image": "/assets/images/produk/tote bag.jpg",
 			},
 			"kaos-kaki": {
 				"title": "Kaos Kaki",
-				"image": "/assets/images/produk/jenis aksesoris_2.jpg",
+				"image": "/assets/images/produk/kaos kaki.jpg",
 			}
 		}
 	}
